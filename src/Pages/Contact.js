@@ -57,8 +57,8 @@ const Contact = () => {
 
         {/* Contact Details */}
         <div className="mt-8 text-center">
-          <p>Email: info@roboinform.com</p>
-          <p>Phone: +1-XXX-XXX-XXXX</p>
+          <p>Email: sahibhart@gmail.com</p>
+          <p>Phone: +91-7069626118</p>
         </div>
 
         {/* Map Section */}
